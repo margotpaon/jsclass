@@ -11,5 +11,5 @@
       - Estruturas condicionais e Loops
 
 - Extensão Code Runner para VSCODE
-  - Executar código fonte ->
-  - Parar execução do código ->
+  - Executar código fonte -> CTRL+ALT+N
+  - Parar execução do código -> CTRL+ALT+M
